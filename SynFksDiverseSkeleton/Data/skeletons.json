@@ -1,0 +1,114 @@
+{
+  "ArgonianRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonSaxhleel.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonSaxhleel.nif"
+  },
+  "BretonRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonBreton.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonBreton.nif"
+  },
+  "DarkElfRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonDunmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonDunmer.nif"
+  },
+  "HighElfRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonAltmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonAltmer.nif"
+  },
+  "ImperialRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonImperial.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonImperial.nif"
+  },
+  "KhajiitRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonKhajiit.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonKhajiit.nif"
+  },
+  "NordRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "OrcRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonOrc.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonOrc.nif"
+  },
+  "RedguardRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonRedguard.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonRedguard.nif"
+  },
+  "WoodElfRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonBosmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonBosmer.nif"
+  },
+  "ElderRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "InvisibleRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "NordRaceAstrid": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "NordRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "ArgonianRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonSaxhleel.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonSaxhleel.nif"
+  },
+  "BretonRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonBreton.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonBreton.nif"
+  },
+  "DarkElfRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonDunmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonDunmer.nif"
+  },
+  "HighElfRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonAltmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonAltmer.nif"
+  },
+  "ImperialRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonImperial.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonImperial.nif"
+  },
+  "KhajiitRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonKhajiit.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonKhajiit.nif"
+  },
+  "RedguardRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonRedguard.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonRedguard.nif"
+  },
+  "WoodElfRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonBosmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonBosmer.nif"
+  },
+  "DA13AfflictedRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonBreton.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonBreton.nif"
+  },
+  "OrcRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonOrc.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonOrc.nif"
+  },
+  "ElderRaceVampire": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "SnowElfRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonAltmer.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonAltmer.nif"
+  },
+  "DLC1NordRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  },
+  "DLC2MiraakRace": {
+    "MalePath": "actors\\character\\character assets\\race\\skeletonNord.nif",
+    "FemalePath": "actors\\character\\character assets female\\race\\skeletonNord.nif"
+  }
+}
