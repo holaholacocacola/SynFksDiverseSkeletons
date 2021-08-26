@@ -86,7 +86,7 @@ namespace SynFksDiverseSkeleton
                     if (newRace.SkeletalModel.Female != null) newRace.SkeletalModel.Female.File = skeletonData[record.EditorID].FemalePath;
                 }
                 
-                state.PatchMod.Races.Add(newRace);
+                state.PatchMod.Races.Set(newRace);
             }
         }
 
